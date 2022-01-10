@@ -1,3 +1,8 @@
+
+## Available Scripts
+
+In the project directory, you can run:
+
 ### `npm run dev`
 
 Runs the app in the development mode.\
@@ -23,7 +28,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Runs the built app.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Topics
+## Topics
 
 - Next.js
 - Static Site Generation
