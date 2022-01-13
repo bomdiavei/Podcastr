@@ -1,31 +1,41 @@
-### `npm run dev`
+<h1 align="center">
+  <img alt="podcastr" title="podcastr" src="https://github.com/bomdiavei/Podcastr/blob/main/public/logo.svg" />
+</h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+  <img alt="Podcastr" src="https://github.com/bomdiavei/Podcastr/blob/main/public/podcastr.svg" width="100%">
+</p>
 
-### `npm run server`
+<br>
 
-Runs the server.\
-Open [http://localhost:3333](http://localhost:3333) to view it in your browser.
+## ✨ Development
 
-### `npm run build`
+This project was developed using:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 💻 Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Podcastr is an application intended to allow users to listen to their favorite podcast episodes.
 
-### `npm run start`
+## 🔖 Layout
 
-Runs the built app.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can visualize the project layout by using this [link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate).
 
-### Topics
+## 🚀 Running
 
-- Next.js
-- Static Site Generation
-- Server-Side Rendering
-- Incremental Static Regeneration
+To start the project, execute the following commands:
+```bash
+# To install all dependencies
+$ yarn or npm install
+
+#To start the fake api
+$ yarn server or npm run server
+
+# To start the project
+$ yarn dev or npm run dev
+```
+
+Now you can acess [`localhost:3000`](http://localhost:3000) in your browser.
