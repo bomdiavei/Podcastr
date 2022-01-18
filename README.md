@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  <img alt="podcastr" title="podcastr" src="https://github.com/bomdiavei/Podcastr/blob/main/public/logo.svg" />
+  <img alt="podcastr" title="podcastr" src=".github/logo.svg" />
 </h1>
 
 <p align="center">
-  <img alt="Podcastr" src="https://github.com/bomdiavei/Podcastr/blob/main/public/podcastr.svg" width="100%">
+  <img alt="Podcastr" src=".github/podcastr.svg" width="100%">
 </p>
 
 <br>
